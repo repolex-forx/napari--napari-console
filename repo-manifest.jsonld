@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-console/commit/38503f8b2a7bc4a25290c813073c8be63cd3df2a",
       "git:hexsha": "38503f8b2a7bc4a25290c813073c8be63cd3df2a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.5",
+      "repolex:parsedAt": "2026-10-28T11:20:24.135653+00:00"
     },
     {
       "@id": "https://repolex.ai/r/napari/napari-console/commit/95c5ba0b9494373f0ffb779387cdbf95808081ba",
